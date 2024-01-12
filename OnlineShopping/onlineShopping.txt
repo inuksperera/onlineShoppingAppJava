@@ -1,0 +1,4 @@
+Clothing,c001,sweater,6,7.0,4,black
+Clothing,c002,tshirt,6,3.0,2,blue
+Electronics,e001,tv,5,3.0,toshiba,52
+Electronics,e002,fridge,6,5.0,LG,9
