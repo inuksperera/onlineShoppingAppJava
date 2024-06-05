@@ -16,15 +16,20 @@ The manager is able to,
 * open the GUI for the customer
 * exit the menu
 
+## Screenshots of Manager CLI
+
+
+![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/b1a327b1-b877-4951-abea-363d480e1148)
+![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/586848d9-0e81-447f-ad1c-f266117e58e6)
+
+
 In the customer GUI, the customer is shown the list of products available in a scrollable list. The list can be filtered
 to show both Electronic and Clothing products, or to just show either Electronic or Clothing products only. A customer can
 select a product from the list and hit the "Add to shopping cart" button to add the product to the cart. The customer can 
 also click on the "Shopping Cart" button to view their shopping cart and total.
 
+## Screenshots of Customer GUI
 
 ![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/0731561e-2672-42b3-b950-49f51de42ebe)
 ![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/139b8724-21df-42a4-a30d-1bf13cfe2ba2)
 
-
-![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/b1a327b1-b877-4951-abea-363d480e1148)
-![image](https://github.com/inuksperera/onlineShoppingAppJava/assets/110172780/586848d9-0e81-447f-ad1c-f266117e58e6)
